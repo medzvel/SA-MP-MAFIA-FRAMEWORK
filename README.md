@@ -50,13 +50,19 @@ forward OnPlayerDealsWithMaterials(playerid, m_Materials, FROM, ACTION, ERROR_HA
 forward OnPlayerTryEnterMafiaVehicle(playerid, MafiaType:m_id, vehicleid, ERROR_HANDLER);
 forward OnPlayerEnterMafiaWarehouseCP(playerid, MafiaType:m_id);
 ```	
+## Contributing
 
+If you have any idea, to improve this script, feel free to do this. After doing some fix or Finding any bug please open issue or make pull request.
+
+## Credits
+
+* **Medzvel** - _Initial work_ - [Medzvel](https://github.com/medzvel)
+* **Pufty** - _Inspiration and Investition_ - [Pufty]
+
+See also the list of [contributors](https://github.com/medzvel/SA-MP-MAFIA-FRAMEWORK/graphs/contributors) who participated in this project.
 
 ## License
 
 MIT
 
-## Credits
-Medzvel - Whole include development.
-Pufty - For his investition and Inspiration
 
